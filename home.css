@@ -3,7 +3,7 @@
 .body {
     margin: 0;
     padding: 0;
-    background-color: rgb(212, 221, 235) !important;
+    background-color: rgb(212, 221, 235);
     font-family: 'Montserrat', sans-serif;
     color: rgb(88, 84, 84);
 
@@ -31,7 +31,8 @@
 
 .projetos {
     color: rgb(88, 84, 84);
-    border: 80px;
+
+
 }
 
 .curriculo {
@@ -63,4 +64,9 @@
     padding-left: 50px;
     text-align: left;
     line-height: 35px;
+}
+
+.navbar    {
+    background-color: rgb(148, 141, 141);
+    z-index: 1;
 }

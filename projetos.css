@@ -32,8 +32,8 @@
 
 .projetos {
     color: rgb(88, 84, 84);
-    border: 80px;
     font-weight: bolder;
+
 
 }
 
@@ -49,18 +49,21 @@
 
 .div3 {
     padding-top: 70px;
-    padding-bottom: 70px;
-
+    margin: 35px;
+    
 }
 
 .div4 {
-    padding-top: 70px;
-    padding-bottom: 70px;
-
+    margin: 35px;
+    
 }
 
 .div5 {
-    padding-top: 70px;
-    padding-bottom: 70px;
+    margin: 35px;
 
+}
+
+.navbar    {
+    background-color: rgb(148, 141, 141);
+    z-index: 1;
 }
