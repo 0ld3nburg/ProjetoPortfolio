@@ -66,7 +66,16 @@
     line-height: 35px;
 }
 
-.navbar    {
-    background-color: rgb(148, 141, 141);
+#navbarNav.navbar-collapse  {
+    background-color: rgb(212, 221, 235);
     z-index: 1;
+    border-radius: 4px;
+    padding-left: 16px;
+    filter: drop-shadow(4px 4px 4px #7a7676); 
+    
+  
+    
 }
+
+
+
