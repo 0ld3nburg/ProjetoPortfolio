@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1+Code:wght@100&family=Montserrat&family=Zen+Kurenaido&display=swap');
+
+.body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(212, 221, 235);
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(88, 84, 84);
+
+}
+
+
+.div1 {
+    border-bottom: 1px solid white;
+    height: 80px;
+    padding-top: 30px;
+    font-weight: bolder;
+}
+
+.div2 {
+    height: 80px;
+    border-bottom: 1px solid white;
+    padding-top: 14px;
+}
+
+.home {
+    color: rgb(88, 84, 84);
+    
+
+}
+
+.projetos {
+    color: rgb(88, 84, 84);
+
+
+}
+
+.curriculo {
+    color: rgb(88, 84, 84);
+}
+
+.contato {
+    color: rgb(88, 84, 84);
+    font-weight: bolder;
+}
+
+.div3 img {
+    max-width:300px;
+    max-height:300px;
+    width: auto;
+    height: auto;
+    float: left;
+
+}
+
+.div3 {
+    padding-top: 70px;
+    padding-left: 100px;
+
+}
+
+#navbarNav.navbar-collapse  {
+    background-color: rgb(212, 221, 235);
+    z-index: 1;
+    border-radius: 4px;
+    padding-left: 16px;
+    filter: drop-shadow(4px 4px 4px #7a7676);
+    
+}
+
+.div4 {
+    float: right;
+    padding-left: 10px;
+    padding-top: 80px;
+
+}
+
+
+.div4 ul li {
+    padding: 10px;
+    list-style-type: none;
+}
+
+
+html {
+    overflow-y:scroll;
+}

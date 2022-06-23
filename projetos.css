@@ -71,3 +71,7 @@
     filter: drop-shadow(4px 4px 4px #7a7676);
     
 }
+
+html {
+    overflow-y:scroll;
+}

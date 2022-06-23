@@ -71,10 +71,12 @@
     z-index: 1;
     border-radius: 4px;
     padding-left: 16px;
-    filter: drop-shadow(4px 4px 4px #7a7676); 
-    
-  
-    
+    filter: drop-shadow(4px 4px 4px #7a7676);
+
+}
+
+html {
+    overflow-y:scroll;
 }
 
 
